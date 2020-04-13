@@ -1,0 +1,14 @@
+body {
+background-color:#9fa180;
+}
+hr {
+border-style: dashed solid;
+border-color: grey;
+width:40%;
+float: left;
+}
+.mc {
+  border-radius: 20%;
+  width: 200px;
+  height: 200px;
+}
